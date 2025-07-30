@@ -1,3 +1,4 @@
 export function countLetters() {
-    console.log("test")
-} 
+    const frase = "Node é poderoso"
+    console.log(`A frase tem ${frase.length} caracteres.`)
+}

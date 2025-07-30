@@ -1,1 +1,6 @@
-{"nome":"kelly"}
+{
+  "nome": "kelly",
+  "curso": "node",
+  "cidade": "belo horizonte",
+  "idade": "24"
+}
